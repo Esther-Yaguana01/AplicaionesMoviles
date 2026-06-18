@@ -51,3 +51,4 @@ class StockViewModel : ViewModel() {
 }
 
 //Estado centralizado del stock de productos
+//Sincronización final de datos completada

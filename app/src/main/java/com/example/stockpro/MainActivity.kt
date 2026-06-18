@@ -18,3 +18,4 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+//Punto de entrada de la aplicación móvil

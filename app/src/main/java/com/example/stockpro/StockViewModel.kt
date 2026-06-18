@@ -49,3 +49,4 @@ class StockViewModel : ViewModel() {
         return productos.count { it.stockActual == 0 }
     }
 }
+//Estado centralizado del stock de productos

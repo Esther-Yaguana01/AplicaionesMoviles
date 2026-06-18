@@ -224,3 +224,4 @@ fun ReportScreen(viewModel: StockViewModel, onVolverClick: () -> Unit) {
         }
     }
 }
+//Diseño de interfaces graficas de usuario
